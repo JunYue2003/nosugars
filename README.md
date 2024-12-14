@@ -3,3 +3,5 @@
 
 For friends who are too lazy to go to the No-ip official website to update their domain name. I used ChatGPT to do it. It would be great if it helps you. If you have a better solution, please leave me a message. Thank you!
 If you want to change the picture, just change the name of the picture you want to the same name as the original picture.
+
+python 3.10
